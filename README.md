@@ -1,1 +1,1 @@
-# Named_Entity_Recognition-Using-LSTMs
+# Named-Entity-Recognition-Using-LSTMs
